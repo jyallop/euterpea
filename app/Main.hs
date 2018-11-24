@@ -4,7 +4,8 @@ import Lib
 import Euterpea
 
 main :: IO ()
-main = 
+main = do 
+    play t251
     someFunc
 
 t251 :: Music Pitch
